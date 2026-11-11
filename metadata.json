@@ -1,0 +1,6 @@
+{
+  "name": "Humanify AI Suite",
+  "description": "Professional AI writing suite created by Sawaira Maryam. Transform robotic AI text into natural human writing, paraphrase, change tone, simplify, summarize, and fix grammar instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
